@@ -1,0 +1,3 @@
+name,host,resolution,type,url,shouldnotcontain,encryption
+test1,example.com,5,http,/,Error,True
+test2,example.com,5,http,/,Error,True
